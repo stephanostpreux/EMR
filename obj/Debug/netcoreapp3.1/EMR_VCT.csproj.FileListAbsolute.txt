@@ -35,3 +35,4 @@ C:\Users\user\Documents\Visual Studio 2019\Projects\WebAPI\WebAPI\bin\Debug\netc
 C:\Users\user\Documents\Visual Studio 2019\Projects\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\user\Documents\Visual Studio 2019\Projects\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Users\user\Documents\Visual Studio 2019\Projects\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Documents\Visual Studio 2019\Projects\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\EMR_VCT.csprojAssemblyReference.cache

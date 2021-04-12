@@ -91,11 +91,11 @@ namespace WebAPI
             });
 
             //To use this photos in our app we need to do this
-            app.UseStaticFiles(new StaticFileOptions
-            {
-                FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(),"Photos")),
-                RequestPath="/Photos"
-            });
+            //app.UseStaticFiles(new StaticFileOptions
+            //{
+            //    FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(),"Photos")),
+            //    RequestPath="/Photos"
+            //});
             
         }
     }
